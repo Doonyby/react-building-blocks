@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Doonyby/react-building-blocks/issues"
   },
-  "homepage": "https://github.com/Doonyby/react-building-blocks#readme"
+  "homepage": "https://github.com/Doonyby/react-building-blocks#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
