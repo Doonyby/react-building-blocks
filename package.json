@@ -1,0 +1,19 @@
+{
+  "name": "react-building-blocks",
+  "version": "1.0.0",
+  "description": "boiler plate from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doonyby/react-building-blocks.git"
+  },
+  "author": "Dan Riding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doonyby/react-building-blocks/issues"
+  },
+  "homepage": "https://github.com/Doonyby/react-building-blocks#readme"
+}
