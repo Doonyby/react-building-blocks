@@ -7,7 +7,7 @@ export default class WebServer {
   }
 
   start() {
-    return new Promise((res, rej) => {
+    return new Promise((resolve, reject) => {
       try {
         this.server = this.app.listen(3000, function() {
           resolve();
@@ -20,7 +20,7 @@ export default class WebServer {
   }
 
   stop() {
-    return new Promise((res, rej) => {
+    return new Promise((resolve, reject) => {
       try {
         this.server.close(() => {
           resolve();
